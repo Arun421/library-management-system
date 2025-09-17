@@ -47,8 +47,7 @@ src/
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   ```
+https://github.com/Arun421/library-management-system.git   ```
 2. Navigate into the project folder:
    ```bash
    cd library-management-system
